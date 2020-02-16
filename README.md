@@ -1,2 +1,2 @@
 # jw7356
-cuid
+jw7356 repository will have some basic info.
